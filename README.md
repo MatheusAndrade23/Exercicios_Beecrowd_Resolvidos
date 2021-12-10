@@ -1,2 +1,2 @@
-# Exercicios_URI_Resolvidos
+# Resolução de Vários Exercícios do URI - Online Judge em C++
  
