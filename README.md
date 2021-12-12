@@ -9,3 +9,5 @@ Para quem não conhece essa incrível plataforma, digo que vale dar uma conferid
 É possível resolver exercícios nas linguagens: `C`, `C++`, `Haskell`, `Java`, `JavaScript`, `Kotlyn`, `Pascal`, `PHP`, `.Python`, `Ruby`, entre outras!
 
 <a href="https://www.beecrowd.com.br/judge/pt">Clique aqui para acessá-lo!</a>
+
+<img src="https://user-images.githubusercontent.com/84635540/145734615-07c698bb-e111-4d38-bc09-53a6fb9a4d0c.png" width="500px">
