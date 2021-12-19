@@ -1,6 +1,6 @@
-# Resolução de Vários Exercícios do Beecrowd - Judge em C++
+# Resolução de Vários Exercícios do Beecrowd em C++
 
-### _**Registrei, aqui, a resolução de vários exercícios do Beecrowd - Judge em C++**_
+### _**Registrei, aqui, a resolução de vários exercícios do Beecrowd em C++**_
 
 <br>
 
